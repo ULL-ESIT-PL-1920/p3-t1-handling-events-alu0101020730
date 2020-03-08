@@ -354,7 +354,7 @@ Esto deja al usuario escribir, si en 500 milisegundos no ha recibido un evento d
 Siendo sincero me ha sido muy complicado y tedioso hacer que funcione, he tenido muchisimos problemas de versiones y he estado mucho tiempo reinstalando todas las gemas porque jekyll no me funcionaba bien, ni si quiera en local, a parte he sentido que los tutoriales de internet dejan mucho que desear ya que varias veces no sabia que habia que hacer exactamente, al final lo que mas me ha ayudado a entender han sido guias de personas externas a github y jekyll.  
 En definitiva, me he llevado una experiencia bastante negativa.
 
-###Confirmacion del funcionamiento de jekyll en local y modulo de gh-pages en maquina virtual
+### Confirmacion del funcionamiento de jekyll en local y modulo de gh-pages en maquina virtual
 Jekyll  
 ![Jekyll](img/jekyll_local.png)
   
