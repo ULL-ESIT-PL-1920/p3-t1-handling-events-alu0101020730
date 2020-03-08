@@ -356,8 +356,8 @@ En definitiva, me he llevado una experiencia bastante negativa.
 
 ### Confirmacion del funcionamiento de jekyll en local y modulo de gh-pages en maquina virtual
 Jekyll  
-![Jekyll](img/jekyll_local.png)
+![Jekyll](img/jekyll.png)
   
 Gh-pages  
-![gh-pages](img/gh-pages_module.png)
+![gh-pages](img/gh-pages.png)
 
